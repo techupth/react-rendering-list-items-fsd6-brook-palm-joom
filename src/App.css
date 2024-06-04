@@ -1,0 +1,45 @@
+h1{
+    color:black;
+    text-align: center;
+}
+
+.movies-box{
+    width: 400px;
+    height: 250px;
+    border: 3px;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.movies-list{
+    width: 231px;
+    height: 211px;
+    color: #181818;
+    font-size: 20px;
+    font-weight: 400;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+img{
+    width:102px;
+    height:100px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: -25px;
+    
+}
+
+a{
+   width: 68px;
+   height: 27px;
+   background-color: #eaac99;
+   border-radius: 10px;
+   font-size: 20px;
+}
