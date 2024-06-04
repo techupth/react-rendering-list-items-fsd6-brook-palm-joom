@@ -1,0 +1,21 @@
+.movie-list-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.move-list-header {
+  color: black;
+  font-size: 40px;
+}
+
+.genre-background {
+  background-color: #eaac99;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
