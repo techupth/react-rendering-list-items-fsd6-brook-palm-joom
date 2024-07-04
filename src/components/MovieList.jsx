@@ -3,7 +3,7 @@
 export function MoviesList(props) {
   return (
     <>
-      <div className="movies-box">
+      {/* <div className="movies-box">
         <figure>
             <img src={props.image} alt="" />
         </figure>
@@ -15,7 +15,7 @@ export function MoviesList(props) {
           <div>IMDBRating: {props.imdbRating}</div>
           <div>IMDBVotes: {props.imdbVotes}</div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 }

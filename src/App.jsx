@@ -7,7 +7,7 @@ function App() {
     <>
       <div className="App">
         <h1>Movie list Section</h1>
-        <section className="movie-list-section">
+        {/* <section className="movie-list-section">
           {movies.map((result,index) => {
             return (
               <MoviesList
@@ -26,7 +26,7 @@ function App() {
               />
             );
           })}
-        </section>
+        </section> */}
       </div>
     </>
   );
